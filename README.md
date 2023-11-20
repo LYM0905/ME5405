@@ -18,3 +18,6 @@ Prj_Computer+-+ME5405.pdf is the requirement of the project
 The png folder saves the pictures of the first question and the second question
 
 ME5405 G31 v4.docx is the final presentation report
+
+
+Please note that in order to ensure correct operation, replace the extraction path in the file (D:\Graduate\5405\p_dataset_26\p_dataset_26) with the real-time storage location of the file during testing.
